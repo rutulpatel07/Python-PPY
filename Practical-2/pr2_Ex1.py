@@ -1,0 +1,10 @@
+name = input("Product Name: ")
+price = float(input("Price: "))
+qty = int(input("Quantity: "))
+man = input("Manufacturer: ")
+
+print("\n--- PRODUCT CATALOG ---")
+print("Name:", name)
+print("Price:", price)
+print("Quantity:", qty)
+print("Manufacturer:", man)
